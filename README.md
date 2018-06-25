@@ -72,7 +72,7 @@ python3 app/file_checker.py # this will write a report to `db/file_checks.csv`
 Run tests:
 
 ```sh
-pytest tests/ # specify filepath to exclude tests from downloaded repos
+pdb.set_trace() for testing
 ```
 
 ## [License](LICENSE.md)
